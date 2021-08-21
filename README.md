@@ -2,13 +2,12 @@
 
 [![Linkedin: Sean Riley Hawkins](https://img.shields.io/badge/-SeanRileyHawkins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sean-riley-hawkins-253ab81a2/)](https://www.linkedin.com/in/sean-riley-hawkins-253ab81a2/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Am a programmer motivated by tweaking and customizing anything from Front-End to Back-End. 
-Am always open to learning new ideas, languages or tricks 😀. This README will get updated as time goes on(when ever I learn something new or get a new skill 😁)
+I'm a programmer motivated by tweaking and customizing anything from Front-End to Back-End, when it comes to learning new techniques, advice or even tips to improve productivity I always welcome them with open arms.
 
 * Currently a student studying in college for a computer related diploma.
-* I work on open source projects or build one when am not swamped with school work.
+* I like work on open source projects or build one when am not swamped with school work.
 
-* You can reach me via [email](mailto:rileyhawk249@gmail.com) or social media from [Link Tree](https://linktr.ee/seanrileyhawkins)
+* You can reach me via [email](mailto:rileyhawk249@gmail.com) or social media from my [Link Tree](https://linktr.ee/seanrileyhawkins)
 
 
 ### Language and Tools:
