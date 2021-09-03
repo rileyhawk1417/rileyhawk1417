@@ -34,7 +34,7 @@ Will uncomment some skills when Am confident to learn them
 
 
    <!-- <br /> -->
-   <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+<!--   <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> -->
 
 
 
