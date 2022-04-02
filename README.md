@@ -4,8 +4,9 @@
 
 I'm a programmer motivated by tweaking and customizing anything from Front-End to Back-End, when it comes to learning new techniques, advice or even tips to improve productivity I always welcome them with open arms.
 
-* Currently a student studying in college for a computer related diploma.
-* I like work on open source projects or build one when am not swamped with school work.
+* Currently a student studying in college working towards a computer related diploma.
+* I like work on open source projects or build one given the chance.
+* During my free time I like to work on animation and 3d illustrations.
 
 * You can reach me via [email](mailto:rileyhawk249@gmail.com) or social media from my [Link Tree](https://linktr.ee/seanrileyhawkins)
 
