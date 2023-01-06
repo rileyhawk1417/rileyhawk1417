@@ -10,6 +10,8 @@ I'm a programmer motivated by tweaking and customizing anything from Front-End t
 
 * You can reach me via [email](mailto:rileyhawk249@gmail.com) or social media from my [Link Tree](https://linktr.ee/seanrileyhawkins)
 
+### My Github Stats
+![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=rileyhawk1417&count_private=true)
 
 ### Language and Tools:
 <p>
