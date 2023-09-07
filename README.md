@@ -16,8 +16,9 @@ I'm a programmer motivated by tweaking and customizing anything from Front-End t
 ### Language and Tools:
 <p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rileyhawk1417&theme=radical&show_icons=true&layout=compact" />
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rileyhawk1417&theme=radical&show_icons=true&layout=compact" />--
 <br />
+-->
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
 Will uncomment some skills when Am confident to learn them
