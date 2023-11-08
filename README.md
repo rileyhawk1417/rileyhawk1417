@@ -23,9 +23,9 @@ I'm a programmer motivated by tweaking and customizing anything from Front-End t
 Will uncomment some skills when Am confident to learn them
   -->
 ### My Github Stats  
-<img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)" />
+<img src="![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=rileyhawk1417&show_icons=true&theme=transparent)" />
 <br />
 
 ### Languages
-<img src="https://github-readme-stats-fork-topaz.vercel.app/api/top-langs/?username=rileyhawk1417&count_private=true&theme=radical&show_icons=true&layout=compact" />
+<img src="![Seans languages](https://github-readme-stats-fork-topaz.vercel.app/api/top-langs/?username=rileyhawk1417&count_private=true&theme=radical&show_icons=true&layout=compact)" />
 </p> 
