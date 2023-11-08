@@ -13,10 +13,12 @@ I'm a programmer motivated by tweaking and customizing anything from Front-End t
 ### My Github Stats
 ![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=rileyhawk1417&count_private=true)
 -->
+<!--
 ### Language and Tools:
 <p>
 
 <br />
+-->
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
