@@ -22,33 +22,10 @@ I'm a programmer motivated by tweaking and customizing anything from Front-End t
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
 Will uncomment some skills when Am confident to learn them
   -->
-  ### My Github Stats
-  <img src="https://github-readme-stats-fork-topaz.vercel.app/api/top-langs/?username=rileyhawk1417&count_private=true&theme=radical&show_icons=true&layout=compact" />
-  <br />
-   <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-   <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+### My Github Stats  
+<img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)" />
+<br />
 
-   <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
-   <!-- <br /> -->
-
-
-
-
-   <!-- <br /> -->
-   <img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
-
-
-
-   <!-- <br /> -->
-<!--   <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> -->
-
-
-
-   <br />
-   <img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg">
-   <!-- <br> -->
-   <img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" >
-    <!-- <br> -->
-    <img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" >
-    <img width="25%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" >
+### Languages
+<img src="https://github-readme-stats-fork-topaz.vercel.app/api/top-langs/?username=rileyhawk1417&count_private=true&theme=radical&show_icons=true&layout=compact" />
 </p> 
