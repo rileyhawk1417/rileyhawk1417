@@ -17,12 +17,13 @@ I'm a programmer motivated by tweaking and customizing anything from Front-End t
 <p>
 
 <br />
--->
+
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
 Will uncomment some skills when Am confident to learn them
   -->
-  <img src="https://github-readme-stats-fork-topaz.vercel.app/api/top-langs/?username=rileyhawk1417&theme=radical&show_icons=true&layout=compact" />
+  ### My Github Stats
+  <img src="https://github-readme-stats-fork-topaz.vercel.app/api/top-langs/?username=rileyhawk1417&count_private=true&theme=radical&show_icons=true&layout=compact" />
   <br />
    <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
    <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
