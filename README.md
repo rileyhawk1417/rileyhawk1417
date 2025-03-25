@@ -1,4 +1,4 @@
-### Hello my name is Sean
+### Hello my name is Sean  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 I'm a programmer motivated by tweaking and modifying anything from Front-End to Back-End. When it comes to learning new techniques, am always ready to dive in.
