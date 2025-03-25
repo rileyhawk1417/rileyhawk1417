@@ -8,8 +8,9 @@ I value feedback and criticism as that can help me grow as a programmer.
 * I like work on open source projects or build one given the chance. (Currently contributing to [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy))
 * During my free time I like to work on animation and 3d illustrations.
 * You can reach me via [email](mailto:rileyhawk249@gmail.com) or social media from my [Link Tree](https://linktr.ee/seanrileyhawkins)
-
+<!--
 [![Linkedin: Sean Riley Hawkins](https://img.shields.io/badge/-SeanRileyHawkins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sean-riley-hawkins-253ab81a2/)](https://www.linkedin.com/in/sean-riley-hawkins-253ab81a2/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+-->
 <!--
 ### My Github Stats
 ![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=rileyhawk1417&count_private=true)
