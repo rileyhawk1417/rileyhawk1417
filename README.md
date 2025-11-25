@@ -13,7 +13,7 @@ I value feedback and criticism as that can help me grow as a programmer.
 -->
 <!--
 ### My Github Stats
-![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=rileyhawk1417&count_private=true)
+![Sean's GitHub stats](https://github-readme-stats-khaki-six-60.vercel.app/api?username=rileyhawk1417&count_private=true)
 -->
 <!--
 ### Language and Tools:
@@ -27,9 +27,9 @@ I value feedback and criticism as that can help me grow as a programmer.
 Will uncomment some skills when Am confident to learn them
   -->
 ### My Github Stats  
-![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=rileyhawk1417&show_icons=true&theme=transparent)
+![Sean's GitHub stats](https://github-readme-stats-khaki-six-60.vercel.app/api?username=rileyhawk1417&show_icons=true&theme=transparent)
 <br />
 
 ### Languages
-![Seans languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rileyhawk1417&count_private=true&theme=radical&show_icons=true&layout=compact)
+![Seans languages](https://github-readme-stats-khaki-six-60.vercel.app/api/top-langs/?username=rileyhawk1417&count_private=true&theme=radical&show_icons=true&layout=compact)
 </p> 
